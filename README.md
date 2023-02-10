@@ -1,5 +1,8 @@
 # Guitar Chords References
-Bloat-free reference website for guitar chord.
+
+This is a **bloat-free** reference website for guitar chords.
+
+All chords are **ASCII text** so there isn't any need to load images.
 
 Feel free to fork this repo and add chord or make stylistic changes, as long as they arent BLOAT.
 
