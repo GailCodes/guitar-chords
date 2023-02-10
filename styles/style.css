@@ -7,16 +7,15 @@
 body {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   line-height: 1.5;
-  color: #fff;
-
-  background-color: #222;
+  color: #000000;
+  background-color: #f3efef;
 
   min-height: 100vh;
   padding: 2rem 10rem;
 }
 
 a {
-  color: #1097cc;
+  color: #063499;
   text-decoration: none;
 }
 
