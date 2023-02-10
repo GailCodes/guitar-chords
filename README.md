@@ -1,3 +1,4 @@
 # guitar-chords
 Bloat-free reference website for guitar chord.
-# guitar-chords
+
+Feel free to fork this repo and add chord or make stylistic changes, as long as they arent BLOAT.
