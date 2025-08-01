@@ -4,18 +4,23 @@
   box-sizing: border-box;
 }
 
+html {
+  font-size: 10px;
+}
+
 body {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   line-height: 1.5;
-  color: #f3efef;
-  background-color: #222222;
+
+  color: #0c0c0c;
+  background-color: #e8e3e3;
 
   min-height: 100vh;
   padding: 2rem 10rem;
 }
 
 a {
-  color: #063499;
+  color: #0f4ac9;
   text-decoration: none;
 }
 
@@ -29,7 +34,7 @@ nav {
   justify-content: center;
   gap: 20px;
 
-  font-size: 1.1rem;
+  font-size: 2rem;
 
   padding-bottom: 2rem;
 }
@@ -38,16 +43,17 @@ nav {
 HOMEPAGE
 ----- */
 main {
-  max-width: 500px;
+  max-width: 700px;
   margin: auto;
 }
 
 main > h1 {
+  font-size: 4rem;
   padding-bottom: 5px;
 }
 
 main p {
-  font-size: 16px;
+  font-size: 1.8rem;
 }
 
 .chord-explanation-section {
@@ -55,7 +61,6 @@ main p {
 
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
   gap: 25px;
 }
 
@@ -70,15 +75,19 @@ CHORDS
 }
 
 .chord-section > div > h3 {
-  font-size: 1.6rem;
+  font-size: 2rem;
   text-align: center;
   padding-bottom: 15px;
 }
 
 /* Chord size */
 pre {
-  font-size: 1rem;
-  font-weight: 600;
+  font-size: 1.7rem;
+  font-weight: 400;
+}
+
+span {
+  font-weight: 700;
 }
 
 @media screen and (max-width: 1440px) {
